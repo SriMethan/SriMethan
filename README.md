@@ -3,12 +3,8 @@ Hi, I am Methan Sritharan, I am a beginner developer of open source projects, ma
 
 ## Projects
 
-## Contributions
-<a href="https://github.com/WandererXII/lishogi">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=wandererXII&repo=lishogi&show_owner=true&theme=algolia" />
-</a>
 
-## Stats
+## Status
 
 <a href="https://github.com/srimethan/srimethan">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=srimethan&show_icons=true&include_all_commits=false&line_height=33&theme=algolia" />

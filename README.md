@@ -2,30 +2,7 @@
 Hi, I am Methan Sritharan, a backend developer in bioinformatics, mainly experienced with Python and C++. I very much enjoy abstract strategy board games, especially chess and related games, and developing open source software for them, see below.
 
 ## Projects
-<a href="https://github.com/ianfab/Fairy-Stockfish">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ianfab&repo=Fairy-Stockfish&theme=algolia" />
-</a>
-<a href="https://github.com/ianfab/fishtest">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ianfab&repo=fishtest&theme=algolia" />
-</a>
-<a href="https://github.com/ianfab/variantfishtest">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ianfab&repo=variantfishtest&theme=algolia" />
-</a>
-<a href="https://github.com/ianfab/spsa">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ianfab&repo=spsa&theme=algolia" />
-</a>
-<a href="https://github.com/ianfab/bookgen">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ianfab&repo=bookgen&theme=algolia" />
-</a>
-<a href="https://github.com/ianfab/stockfish.wasm">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ianfab&repo=stockfish.wasm&theme=algolia" />
-</a>
-<a href="https://github.com/ianfab/fairyfishtest">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ianfab&repo=fairyfishtest&theme=algolia" />
-</a>
-<a href="https://github.com/ianfab/fishutils">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ianfab&repo=fishutils&theme=algolia" />
-</a>
+
 
 
 ## Contributions

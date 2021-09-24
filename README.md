@@ -4,6 +4,9 @@ Hi, I am Methan Sritharan, I am a beginner developer of open source projects, ma
 ## Projects
 <a href="https://github.com/SriMethan/Lichess-Bot ">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=srimethan&repo=lichess-bot&theme=algolia" />
+  
+<a href="https://github.com/SriMethan/livariants ">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=srimethan&repo=livariants&theme=algolia" />
 
 ## Contributions
 <a href="https://github.com/WandererXII/lishogi">

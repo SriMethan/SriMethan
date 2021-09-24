@@ -1,5 +1,5 @@
 ## Introduction
-Hi, I am Methan Sritharan, a backend developer in bioinformatics, mainly experienced with Python and C++. I very much enjoy abstract strategy board games, especially chess and related games, and developing open source software for them, see below.
+Hi, I am Methan Sritharan, I am a developer of open source projects, mainly experienced with Python, Scala and C++. I enjoy developing open source softwares 
 
 ## Projects
 

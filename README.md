@@ -6,15 +6,6 @@ Hi, I am Methan Sritharan, a backend developer in bioinformatics, mainly experie
 
 
 ## Contributions
-<a href="https://github.com/ddugovic/Stockfish">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ddugovic&repo=Stockfish&show_owner=true&theme=algolia" />
-</a>
-<a href="https://github.com/gbtami/pychess-variants">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=gbtami&repo=pychess-variants&show_owner=true&theme=algolia" />
-</a>
-<a href="https://github.com/official-stockfish/Stockfish">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=official-stockfish&repo=Stockfish&show_owner=true&theme=algolia" />
-</a>
 <a href="https://github.com/WandererXII/lishogi">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=wandererXII&repo=lishogi&show_owner=true&theme=algolia" />
 </a>

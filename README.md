@@ -2,8 +2,7 @@
 Hi, I am Methan Sritharan, I am a beginner developer of open source projects, mainly experienced with Python, Scala and C++. I like developing open source softwares 
 
 ## Projects
-<a href="https://github.com/SriMethan/invisibletech ">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=srimethan&repo=invisibletech&theme=algolia" />
+
   
 ## Contributions
 <a href="https://github.com/WandererXII/lishogi">

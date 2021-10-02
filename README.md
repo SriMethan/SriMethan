@@ -8,6 +8,9 @@ Hi, I am Methan Sritharan, I am a beginner developer of open source projects, ma
 <a href="https://github.com/WandererXII/lishogi">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=wandererXII&repo=lishogi&show_owner=true&theme=algolia" />
 </a>
+<a href="https://github.com/AttackingOrDefending/lidraughts-bot">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AttackingOrDefending&repo=lidraughts-bot&show_owner=true&theme=algolia" />
+</a>
   
 ## Status
 

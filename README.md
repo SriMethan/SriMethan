@@ -1,6 +1,17 @@
 ## Introduction
 Hi, I am Methan Sritharan, I am a beginner developer of open source projects, mainly experienced with Python, Scala and C++. I like developing open source softwares 
 
+## Projects
+
+  
+## Contributions
+<a href="https://github.com/WandererXII/lishogi">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=wandererXII&repo=lishogi&show_owner=true&theme=algolia" />
+</a>
+<a href="https://github.com/AttackingOrDefending/lidraughts-bot">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AttackingOrDefending&repo=lidraughts-bot&show_owner=true&theme=algolia" />
+</a>
+  
 ## Status
 
 <a href="https://github.com/srimethan/srimethan">

@@ -2,8 +2,8 @@
 Hi, I am Methan Sritharan, I am a beginner developer of open source projects, mainly experienced with Python, Scala and C++. I like developing open source softwares 
 
 ## Projects
-<a href="https://github.com/SriMethan/invisibletech">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=srimethan&repo=invisibletech&show_owner=true&theme=algolia" />
+<a href="https://github.com/SriMethan/lichess-bot-heroku">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=srimethan&repo=lichess-bot-heroku&show_owner=true&theme=algolia" />
 </a>
   
 ## Contributions

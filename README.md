@@ -16,6 +16,9 @@
 <a href="https://github.com/The-Bot-Makers/Lichess-bot">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=The-Bot-Makers&repo=lichess-bot&show_owner=true&theme=algolia" />
 </a>
+<a href="https://github.com/The-Bot-Makers/Lishogi-bot">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=The-Bot-Makers&repo=lishogi-bot&show_owner=true&theme=algolia" />
+</a>
   
 ## Status
 

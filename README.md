@@ -5,6 +5,9 @@
 <a href="https://github.com/SriMethan/lichess-bot-heroku">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=srimethan&repo=lichess-bot-heroku&show_owner=true&theme=algolia" />
 </a>
+<a href="https://github.com/SriMethan/lidraughts-bot-heroku">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=srimethan&repo=lidraughts-bot-heroku&show_owner=true&theme=algolia" />
+</a>
 <a href="https://github.com/SriMethan/discord-bot-heroku">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=srimethan&repo=discord-bot-heroku&show_owner=true&theme=algolia" />
 </a>

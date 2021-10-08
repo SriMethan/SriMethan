@@ -16,6 +16,9 @@
 <a href="https://github.com/WandererXII/lishogi">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=wandererXII&repo=lishogi&show_owner=true&theme=algolia" />
 </a>
+<a href="https://github.com/ddugovic/Stockfish">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ddugovic&repo=Stockfish&show_owner=true&theme=algolia" />
+</a>
 <a href="https://github.com/TheYoBots/lishogi-bot">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=TheYoBots&repo=lishogi-bot&show_owner=true&theme=algolia" />
 </a>
@@ -24,6 +27,9 @@
 </a>
 <a href="https://github.com/AttackingOrDefending/lidraughts-bot">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AttackingOrDefending&repo=lidraughts-bot&show_owner=true&theme=algolia" />
+</a>
+<a href="https://github.com/The-Bot-Makers/Lishogi-bot">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=The-Bot-Makers&repo=lishogi-bot&show_owner=true&theme=algolia" />
 </a>
   
 ## Status

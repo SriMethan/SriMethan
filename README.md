@@ -16,6 +16,9 @@
 <a href="https://github.com/ddugovic/Stockfish">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ddugovic&repo=Stockfish&show_owner=true&theme=algolia" />
 </a>
+<a href="https://github.com/AttackingOrDefending/pydraughts">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AttackingOrDefending&repo=pydraughts&show_owner=true&theme=algolia" />
+</a>
 <a href="https://github.com/TheYoBots/lishogi-bot">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=TheYoBots&repo=lishogi-bot&show_owner=true&theme=algolia" />
 </a>

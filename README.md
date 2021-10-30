@@ -1,34 +1,3 @@
-## Introduction
-**Hi, I am Methan Sritharan, I am a beginner developer of open source projects, mainly experienced with Python, Scala and C++. I like developing open source softwares**
-
-## Projects
-<a href="https://github.com/SriMethan/lichess-bot-heroku">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=srimethan&repo=lichess-bot-heroku&show_owner=true&theme=algolia" />
-</a>
-<a href="https://github.com/SriMethan/lidraughts-bot-heroku">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=srimethan&repo=lidraughts-bot-heroku&show_owner=true&theme=algolia" />
-</a>
-  
-## Contributions
-<a href="https://github.com/WandererXII/lishogi">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=wandererXII&repo=lishogi&show_owner=true&theme=algolia" />
-</a>
-<a href="https://github.com/ddugovic/Stockfish">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ddugovic&repo=Stockfish&show_owner=true&theme=algolia" />
-</a>
-<a href="https://github.com/AttackingOrDefending/pydraughts">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AttackingOrDefending&repo=pydraughts&show_owner=true&theme=algolia" />
-</a>
-<a href="https://github.com/AttackingOrDefending/lidraughts-bot">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AttackingOrDefending&repo=lidraughts-bot&show_owner=true&theme=algolia" />
-</a> 
-<a href="https://github.com/TheYoBots/lishogi-bot">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=TheYoBots&repo=lishogi-bot&show_owner=true&theme=algolia" />
-</a>
-<a href="https://github.com/The-Bot-Makers/Lichess-bot">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=The-Bot-Makers&repo=lichess-bot&show_owner=true&theme=algolia" />
-</a>
-
 ## Status
 
 <a href="https://github.com/srimethan/srimethan">

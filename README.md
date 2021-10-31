@@ -1,5 +1,5 @@
 ## Introduction
-**Hi, I am Methan Sritharan, I am a beginner developer of open source projects, mainly experienced with Python, Scala and C++. I like developing open source softwares**
+**Hi, I am SriMethan, I am a beginner developer of open source projects, mainly experienced with Python, Scala and C++. I like developing open source softwares**
 
 ## Contributions
 <a href="https://github.com/WandererXII/lishogi">

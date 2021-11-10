@@ -8,11 +8,14 @@
 <a href="https://github.com/WandererXII/lishogi">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=wandererXII&repo=lishogi&show_owner=true&theme=algolia" />
 </a>
-<a href="https://github.com/ddugovic/Stockfish">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ddugovic&repo=Stockfish&show_owner=true&theme=algolia" />
+<a href="https://github.com/ianfab/Fairy-Stockfish">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ianfab&repo=Fairy-Stockfish&show_owner=true&theme=algolia" />
 </a>
 <a href="https://github.com/gbtami/pychess-variants">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=gbtami&repo=pychess-variants&show_owner=true&theme=algolia" />
+</a>
+<a href="https://github.com/ddugovic/Stockfish">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ddugovic&repo=Stockfish&show_owner=true&theme=algolia" />
 </a>
 <a href="https://github.com/AttackingOrDefending/pydraughts">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AttackingOrDefending&repo=pydraughts&show_owner=true&theme=algolia" />

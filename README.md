@@ -1,6 +1,9 @@
 ## Introduction
 **Hi, I am SriMethan, I am a beginner developer of open source projects, mainly experienced with Python, Scala and C++. I like developing open source softwares**
 
+## Projects
+**NONE YET**
+
 ## Contributions
 <a href="https://github.com/gunyarakun/python-shogi">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=gunyarakun&repo=python-shogi&show_owner=true&theme=algolia" />
@@ -36,7 +39,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=The-Bot-Makers&repo=lishogi-bot&show_owner=true&theme=algolia" />
 </a>
 
-## Status
+## Stats
 
 <a href="https://github.com/srimethan/srimethan">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=srimethan&show_icons=true&include_all_commits=false&line_height=33&theme=algolia" />

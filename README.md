@@ -5,6 +5,9 @@
 <a href="https://github.com/gunyarakun/python-shogi">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=gunyarakun&repo=python-shogi&show_owner=true&theme=algolia" />
 </a>
+<a href="https://github.com/ornicar/scalachess">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ornicar&repo=scalachess&show_owner=true&theme=algolia" />
+</a>
 <a href="https://github.com/WandererXII/lishogi">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=wandererXII&repo=lishogi&show_owner=true&theme=algolia" />
 </a>

@@ -2,31 +2,19 @@
 **Hi, I am SriMethan, I am a beginner developer of open source projects, mainly experienced with Python, Scala and C++. I like developing open source softwares**
 
 ## Projects
+<a href="https://github.com/SriMethan/randomnumgen">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=srimethan&repo=randomnumgen&show_owner=true&theme=algolia" />
+</a>
 
 ## Contributions
-<a href="https://github.com/gunyarakun/python-shogi">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=gunyarakun&repo=python-shogi&show_owner=true&theme=algolia" />
-</a>
-<a href="https://github.com/ornicar/scalachess">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ornicar&repo=scalachess&show_owner=true&theme=algolia" />
-</a>
 <a href="https://github.com/WandererXII/lishogi">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=wandererXII&repo=lishogi&show_owner=true&theme=algolia" />
-</a>
-<a href="https://github.com/ianfab/Fairy-Stockfish">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ianfab&repo=Fairy-Stockfish&show_owner=true&theme=algolia" />
-</a>
-<a href="https://github.com/gbtami/pychess-variants">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=gbtami&repo=pychess-variants&show_owner=true&theme=algolia" />
 </a>
 <a href="https://github.com/ddugovic/Stockfish">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ddugovic&repo=Stockfish&show_owner=true&theme=algolia" />
 </a>
-<a href="https://github.com/AttackingOrDefending/pydraughts">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AttackingOrDefending&repo=pydraughts&show_owner=true&theme=algolia" />
-</a>
-<a href="https://github.com/Luecx/Koivisto">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Luecx&repo=Koivisto&show_owner=true&theme=algolia" />
+<a href="https://github.com/gbtami/pychess-variants">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=gbtami&repo=pychess-variants&show_owner=true&theme=algolia" />
 </a>
 <a href="https://github.com/AttackingOrDefending/lidraughts-bot">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AttackingOrDefending&repo=lidraughts-bot&show_owner=true&theme=algolia" />
@@ -36,9 +24,6 @@
 </a>
 <a href="https://github.com/The-Bot-Makers/Lichess-bot">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=The-Bot-Makers&repo=lichess-bot&show_owner=true&theme=algolia" />
-</a>
-<a href="https://github.com/The-Bot-Makers/Lishogi-bot">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=The-Bot-Makers&repo=lishogi-bot&show_owner=true&theme=algolia" />
 </a>
 
 ## Stats

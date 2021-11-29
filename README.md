@@ -5,6 +5,9 @@
 <a href="https://github.com/SriMethan/randomnumgen">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=srimethan&repo=randomnumgen&show_owner=true&theme=algolia" />
 </a>
+<a href="https://github.com/SriMethan/lidraughts-bot-heroku">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=srimethan&repo=lidraughts-bot-heroku&show_owner=true&theme=algolia" />
+</a>
 
 ## Contributions
 <a href="https://github.com/WandererXII/lishogi">

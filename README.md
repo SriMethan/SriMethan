@@ -25,6 +25,9 @@
 <a href="https://github.com/AttackingOrDefending/pydraughts">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AttackingOrDefending&repo=pydraughts&show_owner=true&theme=algolia" />
 </a>
+<a href="https://github.com/Luecx/Koivisto">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Luecx&repo=Koivisto&show_owner=true&theme=algolia" />
+</a>
 <a href="https://github.com/AttackingOrDefending/lidraughts-bot">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AttackingOrDefending&repo=lidraughts-bot&show_owner=true&theme=algolia" />
 </a> 

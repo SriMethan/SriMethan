@@ -20,6 +20,7 @@
 ![VS Code](https://img.shields.io/badge/VSCode-%23007ACC?logo=Visual-studio-code)
 ![Pycharm](https://img.shields.io/badge/PyCharm-green?logo=PyCharm)
 ![Vim](https://img.shields.io/badge/Vim-019733?logo=vim)
+![NeoVim](https://img.shields.io/badge/NeoVim-019733?logo=neovim)
 
 ![Git](https://img.shields.io/badge/-Git-%23F05032?logo=git&logoColor=%23ffffff)
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=000000)

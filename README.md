@@ -6,6 +6,11 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=srimethan&repo=liantichess&show_owner=true&theme=algolia" />
 </a>
 
+<a href="https://github.com/SriMethan/antifishnet">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=srimethan&repo=antifishnet&show_owner=true&theme=algolia" />
+</a>
+
+
 ## Contributions
 <a href="https://github.com/wandererxii/lishogi">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=wandererxii&repo=lishogi&show_owner=true&theme=algolia" />

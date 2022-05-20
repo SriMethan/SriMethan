@@ -1,26 +1,38 @@
+<div id="srimethan-big-text" align="center">
+    <br/>
+    <h1>📄 SriMethan</h1>
+</div>
+
+<p align="center"><img src="https://gpvc.arturio.dev/SriMethan"/></p>
+
+<div id="badges" align="center">
+    
+![I like python))](https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
+
 ## Introduction
+
 **Hi, I am SriMethan, I am a beginner developer of open source projects, mainly experienced with Python, Scala and C++. I like developing open source softwares. My current main open source project is [Liantichess](https://github.com/SriMethan/Liantichessh), An [Antichess](https://lichess.org/variant/antichess) Variants website forked from [PyChess.org](https://github.com/gbtami/pychess-variants).**
 
 ## Projects
 <a href="https://github.com/SriMethan/Liantichess">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=srimethan&repo=liantichess&show_owner=true&theme=algolia" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=srimethan&repo=liantichess&show_owner=true&theme=radical" />
 </a>
 
 ## Contributions
 <a href="https://github.com/wandererxii/lishogi">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=wandererxii&repo=lishogi&show_owner=true&theme=algolia" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=wandererxii&repo=lishogi&show_owner=true&theme=radical" />
 </a>
 <a href="https://github.com/gbtami/pychess-variants">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=gbtami&repo=pychess-variants&show_owner=true&theme=algolia" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=gbtami&repo=pychess-variants&show_owner=true&theme=radical" />
 </a>
 
 ## Stats
 
 <a href="https://github.com/srimethan/srimethan">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=srimethan&show_icons=true&include_all_commits=false&line_height=33&theme=algolia" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=srimethan&show_icons=true&include_all_commits=false&line_height=33&theme=radical" />
 </a>
 <a href="https://coderstats.net/github/#srimethan">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=srimethan&hide=ruby&theme=algolia" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=srimethan&hide=ruby&theme=radical" />
 </a>
 
 ## Technologies

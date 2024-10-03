@@ -4,24 +4,24 @@
 
 ## Projects
 <a href="https://github.com/SriMethan/Liantichess">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=srimethan&repo=liantichess&show_owner=true&theme=radical" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=srimethan&repo=liantichess&show_owner=true&theme=algolia" />
 </a>
 
 ## Contributions
 <a href="https://github.com/wandererxii/lishogi">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=wandererxii&repo=lishogi&show_owner=true&theme=radical" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=wandererxii&repo=lishogi&show_owner=true&theme=algolia" />
 </a>
 <a href="https://github.com/gbtami/pychess-variants">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=gbtami&repo=pychess-variants&show_owner=true&theme=radical" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=gbtami&repo=pychess-variants&show_owner=true&theme=algolia" />
 </a>
 
 ## Stats
 
 <a href="https://github.com/srimethan/srimethan">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=srimethan&show_icons=true&include_all_commits=false&line_height=33&theme=radical" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=srimethan&show_icons=true&include_all_commits=false&line_height=33&theme=algolia" />
 </a>
 <a href="https://coderstats.net/github/#srimethan">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=srimethan&hide=ruby&theme=radical" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=srimethan&hide=ruby&theme=algolia" />
 </a>
 
 ## Technologies

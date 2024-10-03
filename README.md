@@ -1,14 +1,3 @@
-<div id="srimethan-big-text" align="center">
-    <br/>
-    <h1>📄 SriMethan</h1>
-</div>
-
-<p align="center"><img src="https://gpvc.arturio.dev/SriMethan"/></p>
-
-<div id="badges" align="center">
-    
-![I like python))](https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
-
 ## Introduction
 
 **Hi, I am SriMethan, I am a beginner developer of open source projects, mainly experienced with Python, Scala and C++. I like developing open source softwares. My current main open source project is [Liantichess](https://github.com/SriMethan/Liantichessh), An [Antichess](https://lichess.org/variant/antichess) Variants website forked from [PyChess.org](https://github.com/gbtami/pychess-variants).**
